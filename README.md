@@ -19,22 +19,17 @@ I build full-stack web applications and work on AI/Deep Learning projects with a
 
 **Languages**
 - C, C++, Python, JavaScript  
-
 **Frontend**
 - HTML, CSS, React  
-
 **Backend**
 - Node.js, Express  
-
 **Database**
-- MongoDB  
-
+- MongoDB, MySQL
 **Machine Learning / Deep Learning**
 - PyTorch  
 - CNNs  
 - Transfer Learning  
 - Grad-CAM  
-
 **Tools & Platforms**
 - Git & GitHub  
 - VS Code  
@@ -64,14 +59,6 @@ A structured collection of DSA problems implemented **without STL or global vari
 - Arrays, Linked Lists, Stacks, Queues  
 - Trees, Graphs, Searching & Sorting  
 - Well-commented and interview-oriented solutions  
-  
-
----
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gurman-Sarna&show_icons=true&theme=default)
-
----
 
 ## 📫 Connect With Me
 - 📧 Email: gurmansarnain@gmail.com  
