@@ -69,7 +69,7 @@ A structured collection of DSA problems implemented **without STL or global vari
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gurman-Sarna&show_icons=true&theme=default)
 
 ---
 
