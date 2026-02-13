@@ -9,7 +9,7 @@ I build full-stack web applications and work on AI/Deep Learning projects with a
 
 ## 🔭 Currently Working On
 - 🧠 **DeepGuard** – A DeepFake Detection System using Deep Learning  
-- 🌐 Full-stack web applications using **MERN Stack**  
+- 🌐 Full-stack web applications  
 - 📈 Improving **Data Structures & Algorithms** (LeetCode + Codeforces)  
 - 🧪 Experimenting with CNNs, Transfer Learning, and model interpretability  
 
