@@ -39,12 +39,6 @@
     - Rule-based intent-parsing engine, ~90% command interpretation accuracy
     - Executes 12+ device-level commands fully offline
     - Kotlin Android Studio
-
-- 📊 DSA in C
-
-  - A structured set of interview-oriented DSA problems (arrays, linked lists, stacks/queues, trees, graphs, searching & sorting) implemented from scratch without STL — for depth over shortcuts. 
-
-
 ---
 
 ## 💻 Tech Stack
